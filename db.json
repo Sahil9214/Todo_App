@@ -1,0 +1,29 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "title": "redux",
+      "liked": false
+    },
+    {
+      "id": 2,
+      "title": "learn JavaScript",
+      "liked": false
+    },
+    {
+      "id": 1676736388003,
+      "title": "Learn MERN",
+      "liked": false
+    },
+    {
+      "id": 1676736399656,
+      "title": "Learn MongoDB",
+      "liked": false
+    },
+    {
+      "id": 1676736409016,
+      "title": "Learn React",
+      "liked": false
+    }
+  ]
+}
